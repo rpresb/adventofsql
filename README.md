@@ -13,4 +13,5 @@ docker compose up
 You can use any client that connects with postgres.
 
 The port is `5432`
+
 The password defined in `compose.yaml` is `example`
